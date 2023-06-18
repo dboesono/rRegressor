@@ -12,9 +12,9 @@ rRegressor is built with efficiency and flexibility in mind, allowing you to fit
 
 | Student ID |         Student Name         |                                  Email                                   |
 |:----------:|:----------------------------:|:------------------------------------------------------------------------:|
-| 120040005  |       Celline Williem        | [120040005\@link.cuhk.edu.cn](mailto:120040005@link.cuhk.edu.cn){.email} |
-| 120040022  |        Darren Boesono        | [120040022\@link.cuhk.edu.cn](mailto:120040022@link.cuhk.edu.cn){.email} |
-| 120040023  | Jefferson Joseph Tedjojuwono | [120040023\@link.cuhk.edu.cn](mailto:120040023@link.cuhk.edu.cn){.email} |
+| 120040005  |       Celline Williem        | [120040005\@link.cuhk.edu.cn](mailto:120040005@link.cuhk.edu.cn)|
+| 120040022  |        Darren Boesono        | [120040022\@link.cuhk.edu.cn](mailto:120040022@link.cuhk.edu.cn)|
+| 120040023  | Jefferson Joseph Tedjojuwono | [120040023\@link.cuhk.edu.cn](mailto:120040023@link.cuhk.edu.cn)|
 
 ## Installation
 
