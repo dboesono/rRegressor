@@ -1,6 +1,6 @@
 # rRegressor
 
-This project was undertaken as part of the course STA3005: Statistical Computing during Term 2, 2022/2023 at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ).
+This project was undertaken as part of the course STA3005: Statistical Computing during Term 2, 2022/2023 at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ). Click this [link](https://dboesono.github.io/rRegressor/articles/rRegressor_vignette.html) to view the package's full documentation.
 
 ## Project Overview
 
