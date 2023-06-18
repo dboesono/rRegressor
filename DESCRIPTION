@@ -6,7 +6,9 @@ Version: 0.1.0
 Author: Celline Williem <120040005@link.cuhk.edu.cn>, 
     Darren Boesono <120040022@link.cuhk.edu.cn>, 
     Jefferson Joseph Tedjojuwono <120040023@link.cuhk.edu.cn>
-Maintainer: Celline Williem <120040005@link.cuhk.edu.cn>
+Maintainer: Celline Williem <120040005@link.cuhk.edu.cn>, 
+    Darren Boesono <120040022@link.cuhk.edu.cn>, 
+    Jefferson Joseph Tedjojuwono <120040023@link.cuhk.edu.cn>
 Description: A package for providing multiple simple flexible 
     regression models for supervised learning. Users can call the 
     provided dataset or use their own dataset as well as specify the 
