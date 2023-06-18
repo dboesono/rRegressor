@@ -18,7 +18,7 @@ This project was undertaken as part of the course STA3005: Statistical Computing
 
 ## Installation
 
-To install `rRegressor`, you can use the `install.packages()` function in R. However, since the package is in tar.gz file format, you will need to specify the path to the file using the `repos = NULL` argument. Run the following R code to install the package:
+To install `rRegressor`, you can use the `install.packages()` function in R. However, since the package is in `tar.gz` file format, you will need to specify the path to the file using the `repos = NULL` argument. Run the following R code to install the package:
 
 ``` r
 install.packages("/path/to/rRegressor_0.1.0.tar.gz", repos = NULL, type = "source")
