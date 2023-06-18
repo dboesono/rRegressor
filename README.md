@@ -18,7 +18,7 @@ rRegressor is built with efficiency and flexibility in mind, allowing you to fit
 
 ## Installation
 
-To install rRegressor, you can use the install.packages() function in R. However, since the package is in tar.gz file format, you will need to specify the path to the file using the repos = NULL argument. Here's an example of how to install rRegressor:
+To install rRegressor, you can use the `install.packages()` function in R. However, since the package is in tar.gz file format, you will need to specify the path to the file using the repos = NULL argument. Here's an example of how to install rRegressor:
 
 ``` r
 install.packages("/path/to/rRegressor_0.1.0.tar.gz", repos = NULL, type = "source")
@@ -38,7 +38,7 @@ devtools::install_github("dboesono/rRegressor")
 
 ## Load Package
 
-To use rRegressor, you first need to load the library into your R session using the library() function. Here's an example:
+To use rRegressor, you first need to load the library into your R session using the `library()` function. Here's an example:
 
 ``` r
 library(rRegressor)
